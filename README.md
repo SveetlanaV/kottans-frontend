@@ -35,3 +35,6 @@
 <img src="/task_responsive_web_design/flexbox_frogs.png" alt="Responsive Web Design - flex">
 <img src="/task_responsive_web_design/grid_garden.png" alt="Responsive Web Design - grid">
 </details>
+
+Flex повторила. Знала що існує Grid, але не доводилось використовувати. Цікавенько.
+Вирішила у вільний час попрактикуватись з грідом.
