@@ -22,3 +22,16 @@
 
 Було цікаво прослухати ці тиждні. Напевно, засвоїла не все. Але в будь який момент можна повернутись і переслухати.
 Останні тести з Git Branching зайняли в мене багато часу, але так круто, коли виходить)
+
+## Intro to HTML and CSS
+<details><summary>Click on me again</summary>
+<img src="/task_html_css_intro/Intro_HTML_CSS.png" alt="Intro to HTML and CSS">
+</details>
+
+Достатньо легко пройшла, так як є деяка база знань)
+
+## Responsive Web Design
+<details><summary>Click on me again)</summary>
+<img src="/task_responsive_web_design/flexbox_frogs.png" alt="Responsive Web Design - flex">
+<img src="/task_responsive_web_design/grid_garden.png" alt="Responsive Web Design - grid">
+</details>
